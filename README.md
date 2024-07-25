@@ -1,2 +1,2 @@
 # recipe-website
-To save your recipe
+To save recipes
